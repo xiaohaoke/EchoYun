@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EchoYunApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(EchoYunApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(EchoYunApplication.class, args);
+    }
 
 }
